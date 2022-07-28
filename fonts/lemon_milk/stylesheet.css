@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'lemon_milk';
+    src: url('lemonmilk-light.eot');
+    src: url('lemonmilk-light.eot?#iefix') format('embedded-opentype'),
+         url('lemonmilk-light.woff2') format('woff2'),
+         url('lemonmilk-light.woff') format('woff'),
+         url('lemonmilk-light.svg#lemon_milklight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemon_milk';
+    src: url('lemonmilk-regular.eot');
+    src: url('lemonmilk-regular.eot?#iefix') format('embedded-opentype'),
+    url('lemonmilk-regular.woff2') format('woff2'),
+    url('lemonmilk-regular.woff') format('woff'),
+    url('lemonmilk-regular.svg#lemon_milkregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemon_milk';
+    src: url('lemonmilk-medium.eot');
+    src: url('lemonmilk-medium.eot?#iefix') format('embedded-opentype'),
+         url('lemonmilk-medium.woff2') format('woff2'),
+         url('lemonmilk-medium.woff') format('woff'),
+         url('lemonmilk-medium.svg#lemon_milkmedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemon_milk';
+    src: url('lemonmilk-bold.eot');
+    src: url('lemonmilk-bold.eot?#iefix') format('embedded-opentype'),
+    url('lemonmilk-bold.woff2') format('woff2'),
+    url('lemonmilk-bold.woff') format('woff'),
+    url('lemonmilk-bold.svg#lemon_milkbold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
