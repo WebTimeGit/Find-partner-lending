@@ -469,7 +469,7 @@ ul li {
 
 .page4_btn {
     display: inline-block;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-size: 46px;
     line-height: 1;
     padding: 15px 20px;
@@ -483,20 +483,28 @@ ul li {
     transition: .3s ease;
 }
 
-.page4_btn:hover {
-    border-color: #FF8901;
-    color: #FF8901;
-    transition: .3s ease;
-}
+/*.page4_btn:hover {*/
+/*    border-color: #FF8901;*/
+/*    color: #FF8901;*/
+/*    transition: .3s ease;*/
+/*}*/
 
 .page4_downloadIcon {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 .downloadIconWr {
     max-width: 65px;
+    transition: .3s ease;
+
+}
+
+.downloadIconWr:hover {
+    transform: scale(1.05);
+    filter: invert(100%);
+    transition: .3s ease;
 }
 
 .page4_row1_img {
