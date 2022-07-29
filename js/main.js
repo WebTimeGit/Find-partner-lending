@@ -3,6 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
 		// Optional parameters
 		spaceBetween: 0,
 		direction: 'vertical',
+		navigation: {
+			nextEl: '.section_page1_btn',
+		},
 
 		keyboard: {
 			enabled: true,
